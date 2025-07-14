@@ -1,0 +1,146 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    {
+        "type": "java",
+        "name": "Launch Java Program",
+        "request": "launch",
+        "mainClass": ""
+    },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A_first_programme",
+            "request": "launch",
+            "mainClass": "A_first_programme",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "B_escape_sequence",
+            "request": "launch",
+            "mainClass": "B_escape_sequence",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "C_variable_dataType",
+            "request": "launch",
+            "mainClass": "C_variable_dataType",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "D_assignment2",
+            "request": "launch",
+            "mainClass": "D_assignment2",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "E_Variable_printWithFormetSpecifier",
+            "request": "launch",
+            "mainClass": "E_Variable_printWithFormetSpecifier",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "F_UserInput",
+            "request": "launch",
+            "mainClass": "F_UserInput",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "G_literal",
+            "request": "launch",
+            "mainClass": "G_literal",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "H_TypeCasting",
+            "request": "launch",
+            "mainClass": "H_TypeCasting",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "I_ArithmeticOperators",
+            "request": "launch",
+            "mainClass": "I_ArithmeticOperators",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "J_RelationalOperator",
+            "request": "launch",
+            "mainClass": "J_RelationalOperator",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "K_LogicalOperator",
+            "request": "launch",
+            "mainClass": "K_LogicalOperator",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "L_if_else",
+            "request": "launch",
+            "mainClass": "L_if_else",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "M_Ternary",
+            "request": "launch",
+            "mainClass": "M_Ternary",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "N_Switch",
+            "request": "launch",
+            "mainClass": "N_Switch",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "O_string",
+            "request": "launch",
+            "mainClass": "O_string",
+            "projectName": "Learning_dfd9bcbb"
+        },
+        {
+            "type": "java",
+            "name": "P_WhileLoop",
+            "request": "launch",
+            "mainClass": "P_WhileLoop",
+            "projectName": "Learning_dfd9bcbb"
+        }
+    ]
+}
