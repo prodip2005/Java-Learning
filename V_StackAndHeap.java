@@ -10,11 +10,11 @@ class calculator
 
 public class V_StackAndHeap {
     public static void main(String[] args) {
-        int data=10;
+        // int data=10;
         calculator obj=new calculator();
         calculator obj1=new calculator();
         int r1=obj.add(3, 4);
-        obj.num=8;
+        // obj.num=8;
         System.out.println(obj.num);
         System.out.println(obj1.num);
     }
